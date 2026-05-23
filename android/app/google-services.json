@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760512575032",
+    "project_id": "subloop-pinaka-2026",
+    "storage_bucket": "subloop-pinaka-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760512575032:android:de269faa5480366697d8cd",
+        "android_client_info": {
+          "package_name": "com.example.subloop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvV3khUdUFoBlug6BGJ5BVj1MhMfvrQ1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
